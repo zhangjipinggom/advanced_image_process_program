@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="icon_his">
+    <file>icon_histogram.jpg</file>
+  </qresource>
+</RCC>
